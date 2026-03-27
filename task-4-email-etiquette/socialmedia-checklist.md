@@ -12,9 +12,9 @@
 
 **##WHAT YOU MUST NOT DO:**
 
-+You should not comment anything vulgar, harmful or controversial on digital platforms. You must respect other people's opinions on such platforms.
++ You should not comment anything vulgar, harmful or controversial on digital platforms. You must respect other people's opinions on such platforms.
 + You must not upload any kind of fake information.Always verfify before doing so.
-+You must not share sensitive information like OTPS, phone numbers or bank details online.
-+You must not accept friend requests from people whom you do not know.
-+Do not use vulgar language on Social Media Platoforms.
-+Do not overshare abput yourself to anyone online.
++ You must not share sensitive information like OTPS, phone numbers or bank details online.
++ You must not accept friend requests from people whom you do not know.
++ Do not use vulgar language on Social Media Platoforms.
++ Do not overshare abput yourself to anyone online.
