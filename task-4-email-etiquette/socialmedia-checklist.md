@@ -1,6 +1,7 @@
 <ins>### WHAT COLLEGE STUDENTS MUST DO AND NOT DO ON SOCAIL MEDIA PLATFORMS </ins>
 
 **##WHAT YOU MUST DO:**
+
 + You should always create atrong passwords and turn on two-step verification.
 + You can use social media to learn something - networking, graphic designing, writing, etc.
 + You must keep a professional profile if you are keeping it a public account.
@@ -10,6 +11,7 @@
 
 
 **##WHAT YOU MUST NOT DO:**
+
 +You should not comment anything vulgar, harmful or controversial on digital platforms. You must respect other people's opinions on such platforms.
 + You must not upload any kind of fake information.Always verfify before doing so.
 +You must not share sensitive information like OTPS, phone numbers or bank details online.
