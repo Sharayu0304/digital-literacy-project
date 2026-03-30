@@ -14,8 +14,8 @@
 ## 3) CONTENTS IN THIS REPOSITORY (FORMAT):
     + task-1-presentation/
     + task-2-portfolio/
-    + task=-3-3platforms/
-    + task-4-email-ettiquette/
+    + task-3-platforms/
+    + task-4-email-etiquette/
     + task-5-cybercrime/
 
 ## 4) MODULE SUMMARIES 
