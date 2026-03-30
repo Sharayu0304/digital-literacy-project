@@ -4,7 +4,7 @@
 + **Name:** Sharayu Sunil  
 + **Registration No.:** (Add your reg no here)  
 + **Branch:** Computer Science Engineering (AIML)  
-+ **Year:** 1st Year  
++ **Year:** 2025-26
 + **Course:** CSE0001 Digital Literacy
 
  ## 2) OVERVIEW OF THE PROJECT 
